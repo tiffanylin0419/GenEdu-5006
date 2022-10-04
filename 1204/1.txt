@@ -1,0 +1,10 @@
+Chicken
+10000
+Goose
+3000
+Cow
+40
+Duck
+60
+Sheep
+1000

@@ -1,0 +1,8 @@
+Chicken
+10000
+Cow
+20000
+Duck
+20
+Sheep 
+1000

@@ -1,0 +1,8 @@
+John
+10000
+Bill
+20000
+Duck
+30000
+Donald
+40000

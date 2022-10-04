@@ -1,0 +1,11 @@
+PorkChop 10750
+SquashPowder 172
+Taro 10750
+FishSkin 8600
+Tendons 6450
+Garlic 344
+Mushrooms 258
+DriedChestnut 2150
+WhitePepper 86
+BirdEgg 3440
+ChineseCabbage 6450

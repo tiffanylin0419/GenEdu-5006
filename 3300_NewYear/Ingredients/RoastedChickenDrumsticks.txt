@@ -1,0 +1,11 @@
+PorkChop 250
+SquashPowder 4
+Taro 250
+FishSkin 200
+Tendons 150
+Garlic 8
+Mushrooms 6
+DriedChestnut 50
+WhitePepper 2
+BirdEgg 80
+ChineseCabbage 150

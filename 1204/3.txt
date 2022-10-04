@@ -1,0 +1,16 @@
+chicken
+300
+pig
+10
+cattle
+1000
+turkey
+2000
+sheep
+30000
+goat
+20
+duck
+80
+goose
+1

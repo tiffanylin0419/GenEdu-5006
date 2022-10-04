@@ -1,0 +1,14 @@
+Cow
+300
+Chicken
+10
+Goose
+3000
+duck
+60
+sheep
+1000
+turkeys
+40000
+goats
+30

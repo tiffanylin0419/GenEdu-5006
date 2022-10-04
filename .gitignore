@@ -1,0 +1,2 @@
+# File >50MB
+# find . -size +50MB | cat >> .gitignore
